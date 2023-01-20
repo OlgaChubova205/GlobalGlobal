@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace GLOBAL1
+namespace Global3
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
