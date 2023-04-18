@@ -10,7 +10,8 @@ https://web.telegram.org/k/download/1122388711
 ![image](https://user-images.githubusercontent.com/112687883/232733080-f9005b91-48e0-4232-ab46-3a1b64e24be1.png)
 ![image](https://user-images.githubusercontent.com/112687883/232733177-76eea809-21f6-49c6-91f9-ddb9537da3e8.png)
 
-https://web.telegram.org/k/download/1122388711
+
+
 
 
 
